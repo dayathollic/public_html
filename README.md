@@ -1,1 +1,1 @@
-# public_html
+# yang disimpan di hosting
